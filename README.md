@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://i.imgflip.com/b3q73t.gif" width="480" alt="Profile GIF" />
 
@@ -51,10 +50,6 @@ Status    : Always working on something
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nalilz&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nalilz&theme=github-compact&hide_border=true" width="100%" alt="GitHub contribution graph" />
 </div>
 
 ---

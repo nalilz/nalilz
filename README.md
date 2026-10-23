@@ -48,10 +48,6 @@ Status    : Always working on something
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalilz&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nalilz&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub streak" />
-</div>
-
 ---
 
 <div align="center">
